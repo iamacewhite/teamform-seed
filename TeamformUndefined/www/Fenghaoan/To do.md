@@ -1,3 +1,0 @@
-***
-CSS 
-Homepage content
